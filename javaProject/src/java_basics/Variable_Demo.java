@@ -1,4 +1,4 @@
-package java_DSA.basics;
+package java_basics;
 
 public class Variable_Demo {
 
