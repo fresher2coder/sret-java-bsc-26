@@ -72,7 +72,7 @@ public class Queue {
 	
 	boolean isFull() {
 		
-		return (rear+1) % this.capacity == front;
+		return (rear+1) % this.capacity == front; 
 	}
 	
 
